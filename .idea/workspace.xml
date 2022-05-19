@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab334353-e0ab-49be-acb4-8ac9986428e8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/NLP-Assignment-2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NLP-Assignment-2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 2_IntrotoNLP2022.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BERT evaluation.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PART_A.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PART_A_BERT.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part B process.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_A.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_A_and_B.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Part_A_and_B.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part_B.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment_2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cache_dir/cached_train_bert_128_2_2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/olid-data/olid-subset-diagnostic-tests.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/olid-data/olid-test.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/olid-data/olid-train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part_a_and_b.py" beforeDir="false" afterPath="$PROJECT_DIR$/part_a_and_b.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

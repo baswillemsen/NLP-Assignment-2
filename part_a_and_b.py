@@ -43,8 +43,9 @@ drive.mount('/content/gdrive/')
 """
 
 # # Import the data
-# train = pd.read_csv('../input/olid-data/olid-train.csv')
-# test = pd.read_csv('../input/olid-data/olid-test.csv')
+# train = pd.read_csv('../input/olid-train.csv')
+# test = pd.read_csv('../input/olid-test.csv')
+# subset_test = pd.read_csv('../input/olid-subset-diagnostic-tests.csv')
 
 # Import the data
 train = pd.read_csv('/content/gdrive/MyDrive/Colab Notebooks/olid-train.csv')
@@ -192,6 +193,7 @@ print(len(max(list(model.tokenizer.vocab.keys()), key=len)))
 np.random.seed(42)
 
 # text
+# subset_test = pd.read_csv('../input/olid-subset-diagnostic-tests.csv')
 subset_test = pd.read_csv('/content/gdrive/MyDrive/Colab Notebooks/olid-subset-diagnostic-tests.csv')
 text = subset_test['text'].tolist()
 
@@ -312,6 +314,7 @@ pdata = list(nlp.pipe(text))
 np.random.seed(42)
 
 # text
+# subset_test = pd.read_csv('../input/olid-subset-diagnostic-tests.csv')
 subset_test = pd.read_csv('/content/gdrive/MyDrive/Colab Notebooks/olid-subset-diagnostic-tests.csv')
 text = subset_test['text'].tolist()
 
