@@ -14,3 +14,5 @@ Student 3: Sarah Hassouna, 2601420
 - The code in Part_A_and_B.ipynb was written in Colab, so in order to run the code one needs to alter the paths to the local data files.
 - All answers to the question can be found in assignment1_Bas_James_Sarah.docx
 - For Part B, four html files have been created that include the permutations of typos (q5) and negation (q6), and the hate examples (q7). Please refer to these files in case something in the answer docx is not clear.
+
+- The github repo for this assignment can also be found at https://github.com/baswillemsen/NLP-Assignment-2
